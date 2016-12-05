@@ -6,7 +6,7 @@ The EBML Signature Elements are under development and not recommended for use in
 
 ## Introduction
 
-The EBML Signature Elements defines a syntax for the storage of digital signautres within an EBML document. The implementation is inspired by the XML Signature defined by the W3C.
+The EBML Signature Elements defines a syntax for the storage of digital signatures within an EBML document. The implementation is inspired by the XML Signature defined by the W3C.
 
 This document is dependent on the EBML specification for the structure of EBML Elements and definition of data types.
 
@@ -67,7 +67,7 @@ Element Name:   Signature
     Range:          -
     Default:        -
     Element Type:   Binary
-    Description:    The signature of the data (until a new.
+    Description:    The signature of the data.
 
 Element Name:   SignatureElements
 
